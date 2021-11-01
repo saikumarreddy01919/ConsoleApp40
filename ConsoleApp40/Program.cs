@@ -9,6 +9,7 @@ namespace ConsoleApp40
             Console.WriteLine("Hello World!");
             Console.WriteLine("from vs");
             Console.ReadLine();
+            Console.WriteLine("new line")
         }
     }
 }
