@@ -7,6 +7,7 @@ namespace ConsoleApp40
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("from vs");
             Console.ReadLine();
         }
     }
